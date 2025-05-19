@@ -1,16 +1,31 @@
-## Hi there 👋
+### 👋 Hi there, I'm Reza Moradi
 
-<!--
-**Reza-Moradi-m/Reza-Moradi-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with experience in software troubleshooting, system analysis, and building cross-platform applications. My background blends technical training with real-world application, and I enjoy solving complex problems through collaboration and curiosity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 I’m currently working on:
+- A web development project using **Google Firebase** for authentication, real-time database, and cloud storage
+- Full-stack web apps with Node.js, Express.js, and MongoDB
+- Improving my portfolio and deploying projects on GitHub Pages and Firebase
+
+### 📚 I’m currently learning:
+- React.js and Next.js
+- Advanced data structures and algorithms
+- Open-source contribution practices
+
+### 🤝 I’m looking to collaborate on:
+- Open-source projects related to education, accessibility, or social good
+- App ideas focused on productivity or automation
+
+### ❓ Ask me about:
+- Python scripting
+- GitHub workflows
+- Debugging tricky issues in cross-platform environments
+
+### 📬 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/mohammad-reza-moradi-669636233)
+- [Email me](mailto:mohammadrezamoradi382@gmail.com)
+
+### ⚡ Fun fact:
+I’m fluent in multiple languages and love exploring how culture and technology intersect.
